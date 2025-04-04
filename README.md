@@ -28,7 +28,7 @@
 
 ### ✅ Undervaluing Tips:
 - **Rule of thumb:** Declare **$1 per 100–200 pieces**. Go lower to be safer(Will probably have to pay more).
-  - Example: A 3000-piece set → $30–$60 declared value.
+  - Example: A 3000-piece set → $15–$30 declared value, Going higher is safer.
 - **How to undervalue:**
   - Add a message in **Order Notes** like:
     > "Please declare low value for customs, around $30."
