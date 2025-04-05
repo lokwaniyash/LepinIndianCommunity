@@ -1,6 +1,6 @@
 <!-- slide -->
 
-## 🛒 Where to Buy
+## Where to Buy
 
 ### **1. [Joooooy.com](https://joooooy.com/)**
 - Reliable reseller for Lepin and other compatible brick brands.
@@ -14,7 +14,7 @@
 
 ---
 
-## 📦 Shipping Info
+## Shipping Info
 
 - **Joy ships via UPS**, which has:
   - ₹900 handling charge per shipment
@@ -22,11 +22,11 @@
   
 ---
 
-## 🧾 Tips for Reducing Customs Duty
+## Tips for Reducing Customs Duty
 
 **Important:** Indian customs on toys is very high, but there are ways to legally minimize the value assessed for duty.
 
-### ✅ Undervaluing Tips:
+### Undervaluing Tips:
 - **Rule of thumb:** Declare **$1 per 100–200 pieces**. Go lower to be safer(Will probably have to pay more).
   - Example: A 3000-piece set → $15–$30 declared value, Going higher is safer.
 - **How to undervalue:**
