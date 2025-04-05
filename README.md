@@ -35,6 +35,6 @@
   - OR directly **email** Joy or the Alibaba seller:
     > "Hi, please undervalue my order to $XX to reduce customs. Thanks!"
 
-💬 They are used to these requests and usually accommodate it.
+💬 They are used to these requests and usually accommodate it. If you there's anything missing in your packaged (stickers/pieces) you can send joy and email with a picture of the step where that sticker/piece is needed and he'll send it to you for free(no shipping cost)
 
 ---
