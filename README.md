@@ -27,7 +27,7 @@
 **Important:** Indian customs on toys is very high, but there are ways to legally minimize the value assessed for duty.
 
 ### Undervaluing Tips:
-- **Rule of thumb:** Declare **$1 per 100–200 pieces**. Go lower to be safer(Will probably have to pay more).
+- **Rule of thumb:** Declare **$1 per 100–200 pieces**.
   - Example: A 3000-piece set → $15–$30 declared value, Going higher is safer.
 - **How to undervalue:**
   - Add a message in **Order Notes** like:
